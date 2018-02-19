@@ -6,6 +6,7 @@ public class Prova {
 		int i=0;
 		System.out.println("ciao");
 		i++;
+		System.out.println(i);
 	}
 
 }
